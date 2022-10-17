@@ -1,1 +1,0 @@
-# DWM Config files
